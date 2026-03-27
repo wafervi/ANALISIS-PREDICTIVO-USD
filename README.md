@@ -38,3 +38,7 @@ Dollar prediction (USD) with Python applying Recurrent Neural Network
     ├── 2.jpg
     └── newplot.png
 ```
+### **The APP**
+
+[Deepnote.com/ANALISIS-PREDICTIVO-USD](https://deepnote.com/app/wagner-6012/ANALISIS-PREDICTIVO-USD-4656f7e1-bee1-42f8-92c8-e560fab42a02)
+
